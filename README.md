@@ -1,4 +1,4 @@
-# Slideshow
+## <h1 align="center">Slideshow</h1>
 
 
 ## <h2 align="center"> 🔗 Acesso ao projeto </h2>
