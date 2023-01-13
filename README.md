@@ -17,3 +17,6 @@ Esse site foi projetado para ser um visualizadro de imagens em formato de slide,
 
 
 
+
+![deg1](https://user-images.githubusercontent.com/115950745/212362613-426b966d-631a-46db-93dc-afa8f345baa7.png)
+
