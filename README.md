@@ -7,7 +7,7 @@
 
 <h2 align="center">💡 A ideia do projeto</h2>
 
-Esse site foi projetado com a ideia de ser um repositório com código pequeno e compacto a fim de ser utilizado como parte de projetos maiores. Fique a vontade para copiar o código e utilizar em seus projetos.
+Esse site foi projetado para ser um visualizadro de imagens em formato de slide, com um código pequeno a fim de ser utilizado como parte de projetos maiores. Fique a vontade para copiar o código e utilizar em seus projetos.
 
 <hr>
 <h2 align="center">Tecnologias utilizadas 🛠</h2><br>
